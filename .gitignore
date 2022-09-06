@@ -130,3 +130,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/ex03/patrick_ferreira/aclImdb.tgz
