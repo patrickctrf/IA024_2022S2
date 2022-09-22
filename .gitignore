@@ -131,3 +131,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /ex03/patrick_ferreira/aclImdb.tgz
+/ex04/patrick_ferreira/x_2.npy
+/ex04/patrick_ferreira/x_5000.npy
+/ex04/patrick_ferreira/x_20000.npy
+/ex04/patrick_ferreira/x_25000.npy
+/ex04/patrick_ferreira/y_2.npy
+/ex04/patrick_ferreira/y_5000.npy
+/ex04/patrick_ferreira/y_20000.npy
+/ex04/patrick_ferreira/y_25000.npy
+/ex04/patrick_ferreira/best_model.pth
+/ex04/patrick_ferreira/aclImdb.tgz
