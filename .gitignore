@@ -130,6 +130,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ptk Stuff
 /ex03/patrick_ferreira/aclImdb.tgz
 /ex04/patrick_ferreira/x_2.npy
 /ex04/patrick_ferreira/x_5000.npy
@@ -156,3 +158,14 @@ dmypy.json
 /ex07/patrick_ferreira/paracrawl_enpt_test.tsv.gz
 /ex07/patrick_ferreira/paracrawl_enpt_train.tsv.gz
 /ex07/patrick_ferreira/best_model.pth
+/ex08/patrick_ferreira/ex08/x_2.npy
+/ex08/patrick_ferreira/ex08/x_5000.npy
+/ex08/patrick_ferreira/ex08/x_20000.npy
+/ex08/patrick_ferreira/ex08/x_25000.npy
+/ex08/patrick_ferreira/ex08/y_2.npy
+/ex08/patrick_ferreira/ex08/y_5000.npy
+/ex08/patrick_ferreira/ex08/y_20000.npy
+/ex08/patrick_ferreira/ex08/y_25000.npy
+/ex08/patrick_ferreira/ex08/best_model.pth
+/ex08/patrick_ferreira/ex08/aclImdb.tgz
+/ex08/patrick_ferreira/ex08/aclImdb/
