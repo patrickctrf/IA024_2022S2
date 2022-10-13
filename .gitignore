@@ -155,3 +155,4 @@ dmypy.json
 /ex06/patrick_ferreira/aclImdb.tgz
 /ex07/patrick_ferreira/paracrawl_enpt_test.tsv.gz
 /ex07/patrick_ferreira/paracrawl_enpt_train.tsv.gz
+/ex07/patrick_ferreira/best_model.pth
